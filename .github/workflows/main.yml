@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - run: sudo apt-get update
-      - run: sudo apt-get install perl libnet-cidr-lite-perl libtext-csv-perl
+      - run: sudo apt-get install wget
       - run: bash ./sh.sh
       - name: Commit files
         run: |

@@ -29,9 +29,3 @@ jobs:
         with:
           force: true
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      #- uses: actions/upload-artifact@main
-      #  with:
-      #    name: tor_geoip
-      #    path: |
-      #      geoip*
-      #      xt_geoip

@@ -8,3 +8,17 @@ https://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt
 /tool fetch url=https://raw.githubusercontent.com/xxooxxooxx/cn_address/master/ip_address.rsc
 /import ip_address.rsc
 ```
+
+```
+*.whatsapp.net
+whatsapp.com
+telegram.org
+*.google.com
+
+
+/ip dns static add regexp=".*\\.whatsapp\\.net\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="^whatsapp\\.net\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="^whatsapp\\.com\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="^telegram\\.org\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp=".*\\.google\\.com\$" forward-to=8.8.8.8 ttl=300s
+```

@@ -4157,6 +4157,8 @@ add address=103.180.108.0/23 disabled=no list=china-ip
 add address=103.180.226.0/23 disabled=no list=china-ip
 add address=103.181.164.0/23 disabled=no list=china-ip
 add address=103.181.234.0/23 disabled=no list=china-ip
+add address=103.183.26.0/23 disabled=no list=china-ip
+add address=103.183.66.0/23 disabled=no list=china-ip
 add address=103.192.0.0/22 disabled=no list=china-ip
 add address=103.192.4.0/22 disabled=no list=china-ip
 add address=103.192.8.0/22 disabled=no list=china-ip

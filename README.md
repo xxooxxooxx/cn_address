@@ -28,6 +28,8 @@ telegram.org
 /ip dns static add regexp="youtube\\.com\$" forward-to=8.8.8.8 ttl=300s
 /ip dns static add regexp="google\\.com\$" forward-to=8.8.8.8 ttl=300s
 /ip dns static add regexp="googlevideo\\.com\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="ytimg\\.com\$" forward-to=8.8.8.8 ttl=300s
+
 
 /ip dns static add regexp="signal\\.org\$" forward-to=8.8.8.8 ttl=300s
 /ip dns static add regexp="^updates\\.signal\\.org\\.cdn\\.cloudflare\\.net\$" forward-to=8.8.8.8 ttl=300s

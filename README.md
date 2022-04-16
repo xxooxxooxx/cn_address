@@ -24,6 +24,9 @@ telegram.org
 ```
 
 ```
+/ip dns static add regexp="googlesyndication\\.com\$" a=127.0.0.1 ttl=1d
+/ip dns static add regexp="doubleclick\\.net\$" a=127.0.0.1 ttl=1d
+
 /ip dns static add regexp="googleapis\\.com\$" forward-to=8.8.8.8 ttl=300s
 /ip dns static add regexp="youtube\\.com\$" forward-to=8.8.8.8 ttl=300s
 /ip dns static add regexp="google\\.com\$" forward-to=8.8.8.8 ttl=300s

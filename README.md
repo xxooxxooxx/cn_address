@@ -7,6 +7,8 @@ https://cacerts.digicert.com/DigiCertHighAssuranceEVRootCA.crt
 /certificate import file-name=DigiCertHighAssuranceEVRootCA.crt
 /tool fetch url=https://raw.githubusercontent.com/xxooxxooxx/cn_address/master/ip_address.rsc
 /import ip_address.rsc
+/tool fetch url=https://raw.githubusercontent.com/xxooxxooxx/cn_address/master/ali.rsc
+/import ali.rsc
 ```
 
 ```

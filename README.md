@@ -40,4 +40,11 @@ telegram.org
 
 /ip dns static add regexp="signal\\.org\$" forward-to=8.8.8.8 ttl=300s
 /ip dns static add regexp="^updates\\.signal\\.org\\.cdn\\.cloudflare\\.net\$" forward-to=8.8.8.8 ttl=300s
+
+/ip dns static add regexp="wikipedia\\.org\$" forward-to=8.8.8.8 ttl=300s
+
+/ip dns static add regexp="^dns\\.adguard\\.com\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="^cloudflare-dns\\.com\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="^dns\\.google\$" forward-to=8.8.8.8 ttl=300s
+/ip dns static add regexp="^9\\.9\\.9\\.9\$" forward-to=8.8.8.8 ttl=300s
 ```

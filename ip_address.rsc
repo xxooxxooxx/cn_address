@@ -1867,7 +1867,6 @@ add address=101.37.0.0/16 disabled=no list=china-ip
 add address=101.38.0.0/15 disabled=no list=china-ip
 add address=101.40.0.0/15 disabled=no list=china-ip
 add address=101.42.0.0/15 disabled=no list=china-ip
-add address=101.47.0.0/16 disabled=no list=china-ip
 add address=101.48.0.0/15 disabled=no list=china-ip
 add address=101.50.8.0/22 disabled=no list=china-ip
 add address=101.50.12.0/22 disabled=no list=china-ip

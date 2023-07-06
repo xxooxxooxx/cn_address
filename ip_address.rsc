@@ -1761,9 +1761,8 @@ add address=61.28.64.0/18 disabled=no list=china-ip
 add address=61.29.128.0/18 disabled=no list=china-ip
 add address=61.29.192.0/19 disabled=no list=china-ip
 add address=61.29.224.0/20 disabled=no list=china-ip
-add address=61.29.240.0/21 disabled=no list=china-ip
+add address=61.29.240.0/22 disabled=no list=china-ip
 add address=61.29.248.0/22 disabled=no list=china-ip
-add address=61.29.254.0/23 disabled=no list=china-ip
 add address=61.45.128.0/18 disabled=no list=china-ip
 add address=61.45.224.0/20 disabled=no list=china-ip
 add address=61.47.128.0/18 disabled=no list=china-ip
@@ -4887,6 +4886,8 @@ add address=103.230.0.0/22 disabled=no list=china-ip
 add address=103.230.28.0/22 disabled=no list=china-ip
 add address=103.230.44.0/22 disabled=no list=china-ip
 add address=103.230.96.0/22 disabled=no list=china-ip
+add address=103.230.110.0/23 disabled=no list=china-ip
+add address=103.230.128.0/23 disabled=no list=china-ip
 add address=103.230.196.0/22 disabled=no list=china-ip
 add address=103.230.200.0/22 disabled=no list=china-ip
 add address=103.230.204.0/22 disabled=no list=china-ip
@@ -4901,6 +4902,7 @@ add address=103.231.184.0/22 disabled=no list=china-ip
 add address=103.231.244.0/22 disabled=no list=china-ip
 add address=103.232.4.0/22 disabled=no list=china-ip
 add address=103.232.144.0/22 disabled=no list=china-ip
+add address=103.232.166.0/23 disabled=no list=china-ip
 add address=103.232.188.0/22 disabled=no list=china-ip
 add address=103.232.212.0/22 disabled=no list=china-ip
 add address=103.233.4.0/22 disabled=no list=china-ip
@@ -4910,6 +4912,7 @@ add address=103.233.104.0/22 disabled=no list=china-ip
 add address=103.233.128.0/22 disabled=no list=china-ip
 add address=103.233.136.0/22 disabled=no list=china-ip
 add address=103.233.162.0/23 disabled=no list=china-ip
+add address=103.233.178.0/23 disabled=no list=china-ip
 add address=103.233.228.0/22 disabled=no list=china-ip
 add address=103.234.0.0/22 disabled=no list=china-ip
 add address=103.234.20.0/22 disabled=no list=china-ip

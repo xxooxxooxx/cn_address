@@ -5088,6 +5088,7 @@ add address=103.242.240.0/22 disabled=no list=china-ip
 add address=103.243.136.0/22 disabled=no list=china-ip
 add address=103.243.252.0/22 disabled=no list=china-ip
 add address=103.244.16.0/22 disabled=no list=china-ip
+add address=103.244.26.0/23 disabled=no list=china-ip
 add address=103.244.58.0/23 disabled=no list=china-ip
 add address=103.244.60.0/22 disabled=no list=china-ip
 add address=103.244.64.0/22 disabled=no list=china-ip
@@ -5101,6 +5102,7 @@ add address=103.244.164.0/22 disabled=no list=china-ip
 add address=103.244.232.0/22 disabled=no list=china-ip
 add address=103.244.252.0/22 disabled=no list=china-ip
 add address=103.245.23.0/24 disabled=no list=china-ip
+add address=103.245.24.0/23 disabled=no list=china-ip
 add address=103.245.52.0/22 disabled=no list=china-ip
 add address=103.245.60.0/22 disabled=no list=china-ip
 add address=103.245.80.0/22 disabled=no list=china-ip

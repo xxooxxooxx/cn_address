@@ -53,5 +53,5 @@ telegram.org
 add name=dns regexp=".*\\.whatsapp\\.net\$|^whatsapp\\.net\$|^whatsapp\\.com\$|^telegram\\.org\$|.*\\.google\\.com\$| \
 googleapis\\.com\$|youtube\\.com\$|google\\.com\$|googlevideo\\.com\$|ytimg\\.com\$|googleusercontent\\.com\$| \
 gstatic\\.com\$|ggpht\\.com\$|signal\\.org\$|^updates\\.signal\\.org\\.cdn\\.cloudflare\\.net\$|wikipedia\\.org\$| \
-^dns\\.adguard\\.com\$|^cloudflare-dns\\.com\$|^dns\\.google\$|^9\\.9\\.9\\.9\$"
+^dns\\.adguard\\.com\$|^cloudflare-dns\\.com\$|^dns\\.google\$|^9\\.9\\.9\\.9\$|^twitter\\.com\$"
 ```

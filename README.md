@@ -55,3 +55,7 @@ googleapis\\.com\$|youtube\\.com\$|google\\.com\$|googlevideo\\.com\$|ytimg\\.co
 gstatic\\.com\$|ggpht\\.com\$|signal\\.org\$|^updates\\.signal\\.org\\.cdn\\.cloudflare\\.net\$|wikipedia\\.org\$| \
 ^dns\\.adguard\\.com\$|^cloudflare-dns\\.com\$|^dns\\.google\$|^9\\.9\\.9\\.9\$|^twitter\\.com\$"
 ```
+```
+/ip firewall layer7-protocol
+add name=dns regexp="google.com|twitter.com|youtube.com|ytimg.com|blogger.com|blogspot.com|wordpress.com|googleapis.com|ggpht.com|gstatic.com|googleusercontent.com|googleadservices.com|googlesyndication.com
+```

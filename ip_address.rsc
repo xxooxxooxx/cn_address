@@ -3628,7 +3628,6 @@ add address=103.112.68.0/22 disabled=no list=china-ip
 add address=103.112.72.0/22 disabled=no list=china-ip
 add address=103.112.88.0/22 disabled=no list=china-ip
 add address=103.112.92.0/22 disabled=no list=china-ip
-add address=103.112.96.0/22 disabled=no list=china-ip
 add address=103.112.108.0/22 disabled=no list=china-ip
 add address=103.112.112.0/22 disabled=no list=china-ip
 add address=103.112.116.0/22 disabled=no list=china-ip
@@ -6227,6 +6226,7 @@ add address=157.15.104.0/23 disabled=no list=china-ip
 add address=157.15.200.0/23 disabled=no list=china-ip
 add address=157.18.0.0/16 disabled=no list=china-ip
 add address=157.20.33.0/24 disabled=no list=china-ip
+add address=157.20.136.0/23 disabled=no list=china-ip
 add address=157.61.0.0/16 disabled=no list=china-ip
 add address=157.119.8.0/22 disabled=no list=china-ip
 add address=157.119.12.0/22 disabled=no list=china-ip

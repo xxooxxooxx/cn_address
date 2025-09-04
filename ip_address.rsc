@@ -6549,6 +6549,7 @@ add address=202.6.108.0/24 disabled=no list=china-ip
 add address=202.6.110.0/23 disabled=no list=china-ip
 add address=202.6.114.0/24 disabled=no list=china-ip
 add address=202.6.176.0/20 disabled=no list=china-ip
+add address=202.6.202.0/23 disabled=no list=china-ip
 add address=202.8.0.0/24 disabled=no list=china-ip
 add address=202.8.2.0/23 disabled=no list=china-ip
 add address=202.8.4.0/23 disabled=no list=china-ip
@@ -7093,6 +7094,7 @@ add address=202.134.212.0/22 disabled=no list=china-ip
 add address=202.134.216.0/22 disabled=no list=china-ip
 add address=202.134.220.0/22 disabled=no list=china-ip
 add address=202.136.48.0/20 disabled=no list=china-ip
+add address=202.136.80.0/23 disabled=no list=china-ip
 add address=202.136.208.0/20 disabled=no list=china-ip
 add address=202.136.224.0/20 disabled=no list=china-ip
 add address=202.136.248.0/22 disabled=no list=china-ip

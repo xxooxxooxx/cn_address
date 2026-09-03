@@ -6073,6 +6073,7 @@ add address=129.28.0.0/16 disabled=no list=china-ip
 add address=129.204.0.0/16 disabled=no list=china-ip
 add address=129.211.0.0/16 disabled=no list=china-ip
 add address=132.232.0.0/16 disabled=no list=china-ip
+add address=134.49.240.0/22 disabled=no list=china-ip
 add address=134.175.0.0/16 disabled=no list=china-ip
 add address=137.59.59.0/24 disabled=no list=china-ip
 add address=137.59.88.0/22 disabled=no list=china-ip
@@ -6363,6 +6364,7 @@ add address=162.105.0.0/16 disabled=no list=china-ip
 add address=163.0.0.0/16 disabled=no list=china-ip
 add address=163.47.4.0/22 disabled=no list=china-ip
 add address=163.52.28.0/23 disabled=no list=china-ip
+add address=163.52.76.0/23 disabled=no list=china-ip
 add address=163.53.0.0/22 disabled=no list=china-ip
 add address=163.53.4.0/22 disabled=no list=china-ip
 add address=163.53.8.0/22 disabled=no list=china-ip

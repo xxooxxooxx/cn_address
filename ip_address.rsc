@@ -743,6 +743,7 @@ add address=43.241.80.0/22 disabled=no list=china-ip
 add address=43.241.84.0/22 disabled=no list=china-ip
 add address=43.241.88.0/22 disabled=no list=china-ip
 add address=43.241.92.0/22 disabled=no list=china-ip
+add address=43.241.100.0/23 disabled=no list=china-ip
 add address=43.241.112.0/22 disabled=no list=china-ip
 add address=43.241.168.0/22 disabled=no list=china-ip
 add address=43.241.172.0/22 disabled=no list=china-ip
@@ -6365,6 +6366,7 @@ add address=163.47.4.0/22 disabled=no list=china-ip
 add address=163.52.28.0/23 disabled=no list=china-ip
 add address=163.52.76.0/23 disabled=no list=china-ip
 add address=163.52.108.0/23 disabled=no list=china-ip
+add address=163.52.246.0/23 disabled=no list=china-ip
 add address=163.53.0.0/22 disabled=no list=china-ip
 add address=163.53.4.0/22 disabled=no list=china-ip
 add address=163.53.8.0/22 disabled=no list=china-ip
